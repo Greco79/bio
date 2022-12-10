@@ -93,4 +93,5 @@ If you'd like to request a new function, feel free to do so by opening an issueÂ
 
 
 ## License
-Greco79
+MIT
+
